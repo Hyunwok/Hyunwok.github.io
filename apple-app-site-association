@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["D49753ZB3N.com.Wook.Intrance"],
+                "components": [
+                    {
+                        "/": "*"
+                    }
+                ]
+            }
+        ]
+    }
+}
